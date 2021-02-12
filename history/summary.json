@@ -4,28 +4,30 @@
     "url": "https://lation.app",
     "icon": "https://favicons.githubusercontent.com/lation.app",
     "slug": "lation-official-site",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1552,
     "timeDay": 1605,
     "timeWeek": 1573,
     "timeMonth": 1530,
     "timeYear": 1552,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-12": 3
+    }
   },
   {
     "name": "Lation Converter",
     "url": "https://converter.lation.app",
     "icon": "https://favicons.githubusercontent.com/converter.lation.app",
     "slug": "lation-converter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1634,
@@ -33,16 +35,18 @@
     "timeWeek": 1613,
     "timeMonth": 1622,
     "timeYear": 1634,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-12": 2
+    }
   },
   {
     "name": "Lation Stock",
     "url": "https://stock.lation.app",
     "icon": "https://favicons.githubusercontent.com/stock.lation.app",
     "slug": "lation-stock",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +55,8 @@
     "timeWeek": 1505,
     "timeMonth": 1581,
     "timeYear": 1571,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-12": 0
+    }
   }
 ]
