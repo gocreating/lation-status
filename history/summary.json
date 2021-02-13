@@ -10,11 +10,11 @@
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.91%",
-    "time": 1566,
-    "timeDay": 1854,
-    "timeWeek": 1639,
-    "timeMonth": 1548,
-    "timeYear": 1566,
+    "time": 1568,
+    "timeDay": 1868,
+    "timeWeek": 1645,
+    "timeMonth": 1547,
+    "timeYear": 1568,
     "dailyMinutesDown": {
       "2021-02-12": 45
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.91%",
     "time": 1649,
-    "timeDay": 1916,
-    "timeWeek": 1687,
-    "timeMonth": 1640,
+    "timeDay": 1918,
+    "timeWeek": 1690,
+    "timeMonth": 1642,
     "timeYear": 1649,
     "dailyMinutesDown": {
       "2021-02-12": 44
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/stock.lation.app",
     "slug": "lation-stock",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "97.05%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.91%",
-    "time": 1584,
-    "timeDay": 1793,
-    "timeWeek": 1576,
-    "timeMonth": 1596,
-    "timeYear": 1584,
+    "uptimeYear": "99.92%",
+    "time": 1583,
+    "timeDay": 1814,
+    "timeWeek": 1568,
+    "timeMonth": 1591,
+    "timeYear": 1583,
     "dailyMinutesDown": {
       "2021-02-12": 42
     }
