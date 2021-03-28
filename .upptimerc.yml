@@ -10,6 +10,12 @@ sites:
     url: https://converter.lation.app
   - name: Lation Stock
     url: https://stock.lation.app
+  - name: Lation Coin
+    url: https://coin.lation.app
+  - name: Lation Stock API Server
+    url: https://stock-api.lation.app:5555
+  - name: Lation Coin API Server
+    url: https://coin-api.lation.app:8888
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
