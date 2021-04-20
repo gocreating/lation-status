@@ -15,7 +15,7 @@ sites:
   - name: Lation Stock API Server
     url: https://stock-api.lation.app:5555
   - name: Lation Coin API Server
-    url: https://coin-api.lation.app:8888
+    url: https://coin-api.lation.app
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
