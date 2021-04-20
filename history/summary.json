@@ -98,20 +98,20 @@
   },
   {
     "name": "Lation Coin API Server",
-    "url": "https://coin-api.lation.app:8888",
+    "url": "https://coin-api.lation.app",
     "icon": "https://favicons.githubusercontent.com/coin-api.lation.app",
     "slug": "lation-coin-api-server",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 264,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 264,
-    "timeYear": 264,
+    "time": 250,
+    "timeDay": 117,
+    "timeWeek": 117,
+    "timeMonth": 250,
+    "timeYear": 250,
     "dailyMinutesDown": {}
   }
 ]
