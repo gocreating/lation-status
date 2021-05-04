@@ -101,17 +101,17 @@
     "url": "https://coin-api.lation.app",
     "icon": "https://favicons.githubusercontent.com/coin-api.lation.app",
     "slug": "lation-coin-api-server",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2774,
-    "timeDay": 10960,
-    "timeWeek": 6039,
-    "timeMonth": 3691,
-    "timeYear": 2774,
+    "time": 3426,
+    "timeDay": 12465,
+    "timeWeek": 7251,
+    "timeMonth": 4531,
+    "timeYear": 3426,
     "dailyMinutesDown": {}
   }
 ]
