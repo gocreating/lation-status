@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1369,
-    "timeDay": 1696,
-    "timeWeek": 935,
-    "timeMonth": 1343,
-    "timeYear": 1369,
+    "time": 1364,
+    "timeDay": 450,
+    "timeWeek": 958,
+    "timeMonth": 1304,
+    "timeYear": 1364,
     "dailyMinutesDown": {
       "2021-02-12": 45
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1548,
-    "timeDay": 2017,
-    "timeWeek": 1417,
-    "timeMonth": 1762,
-    "timeYear": 1548,
+    "time": 1542,
+    "timeDay": 416,
+    "timeWeek": 1264,
+    "timeMonth": 1719,
+    "timeYear": 1542,
     "dailyMinutesDown": {
       "2021-02-12": 44
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/stock.lation.app",
     "slug": "lation-stock",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 1564,
-    "timeDay": 1827,
-    "timeWeek": 1602,
-    "timeMonth": 1729,
-    "timeYear": 1564,
+    "uptimeYear": "99.98%",
+    "time": 1558,
+    "timeDay": 478,
+    "timeWeek": 1453,
+    "timeMonth": 1685,
+    "timeYear": 1558,
     "dailyMinutesDown": {
       "2021-03-08": 19,
       "2021-02-12": 42
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1528,
-    "timeDay": 1700,
-    "timeWeek": 1568,
-    "timeMonth": 1599,
-    "timeYear": 1528,
+    "time": 1517,
+    "timeDay": 527,
+    "timeWeek": 1407,
+    "timeMonth": 1555,
+    "timeYear": 1517,
     "dailyMinutesDown": {}
   },
   {
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 718,
-    "timeDay": 668,
-    "timeWeek": 643,
-    "timeMonth": 664,
-    "timeYear": 718,
+    "time": 717,
+    "timeDay": 588,
+    "timeWeek": 621,
+    "timeMonth": 663,
+    "timeYear": 717,
     "dailyMinutesDown": {}
   },
   {
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1467,
-    "timeDay": 327,
-    "timeWeek": 284,
-    "timeMonth": 236,
-    "timeYear": 1467,
+    "time": 1454,
+    "timeDay": 305,
+    "timeWeek": 311,
+    "timeMonth": 235,
+    "timeYear": 1454,
     "dailyMinutesDown": {}
   }
 ]
