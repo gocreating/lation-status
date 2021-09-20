@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1367,
-    "timeDay": 1581,
-    "timeWeek": 1323,
-    "timeMonth": 1316,
-    "timeYear": 1367,
+    "time": 1368,
+    "timeDay": 1580,
+    "timeWeek": 1464,
+    "timeMonth": 1353,
+    "timeYear": 1368,
     "dailyMinutesDown": {
       "2021-02-12": 45
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1521,
-    "timeDay": 1811,
-    "timeWeek": 1571,
-    "timeMonth": 1417,
-    "timeYear": 1521,
+    "time": 1522,
+    "timeDay": 1805,
+    "timeWeek": 1763,
+    "timeMonth": 1461,
+    "timeYear": 1522,
     "dailyMinutesDown": {
       "2021-02-12": 44
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1576,
-    "timeDay": 1702,
-    "timeWeek": 1564,
-    "timeMonth": 1540,
+    "timeDay": 1639,
+    "timeWeek": 1734,
+    "timeMonth": 1573,
     "timeYear": 1576,
     "dailyMinutesDown": {
       "2021-03-08": 19,
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1524,
-    "timeDay": 1775,
-    "timeWeek": 1582,
-    "timeMonth": 1495,
-    "timeYear": 1524,
+    "time": 1526,
+    "timeDay": 1815,
+    "timeWeek": 1755,
+    "timeMonth": 1540,
+    "timeYear": 1526,
     "dailyMinutesDown": {}
   },
   {
@@ -90,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 722,
-    "timeDay": 579,
-    "timeWeek": 648,
-    "timeMonth": 752,
+    "timeDay": 637,
+    "timeWeek": 647,
+    "timeMonth": 751,
     "timeYear": 722,
     "dailyMinutesDown": {}
   },
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 927,
-    "timeDay": 318,
+    "time": 924,
+    "timeDay": 316,
     "timeWeek": 286,
     "timeMonth": 246,
-    "timeYear": 927,
+    "timeYear": 924,
     "dailyMinutesDown": {}
   }
 ]
