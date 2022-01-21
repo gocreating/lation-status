@@ -1,7 +1,7 @@
 url: https://stock-api.lation.app:5555
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-01-20T23:12:22.455Z
+status: up
+code: 200
+responseTime: 505
+lastUpdated: 2022-01-21T11:26:47.028Z
 startTime: Sun Mar 28 2021 13:30:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
