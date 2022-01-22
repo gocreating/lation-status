@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1452,
-    "timeDay": 427,
-    "timeWeek": 1318,
-    "timeMonth": 1628,
+    "timeDay": 1472,
+    "timeWeek": 1285,
+    "timeMonth": 1619,
     "timeYear": 1442,
     "dailyMinutesDown": {
       "2021-02-12": 45
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1597,
-    "timeDay": 1675,
-    "timeWeek": 1722,
-    "timeMonth": 1666,
-    "timeYear": 1594,
+    "timeDay": 1570,
+    "timeWeek": 1703,
+    "timeMonth": 1659,
+    "timeYear": 1593,
     "dailyMinutesDown": {
       "2021-02-12": 44
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1628,
-    "timeDay": 315,
-    "timeWeek": 1609,
-    "timeMonth": 1757,
-    "timeYear": 1629,
+    "time": 1629,
+    "timeDay": 1842,
+    "timeWeek": 1611,
+    "timeMonth": 1727,
+    "timeYear": 1630,
     "dailyMinutesDown": {
       "2021-03-08": 19,
       "2021-02-12": 42
@@ -65,17 +65,17 @@
     "url": "https://coin.lation.app",
     "icon": "https://favicons.githubusercontent.com/coin.lation.app",
     "slug": "lation-coin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1611,
-    "timeDay": 1696,
-    "timeWeek": 1763,
-    "timeMonth": 1745,
-    "timeYear": 1611,
+    "time": 1612,
+    "timeDay": 1713,
+    "timeWeek": 1758,
+    "timeMonth": 1740,
+    "timeYear": 1612,
     "dailyMinutesDown": {}
   },
   {
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 703,
-    "timeDay": 355,
-    "timeWeek": 430,
-    "timeMonth": 430,
-    "timeYear": 703,
+    "time": 702,
+    "timeDay": 500,
+    "timeWeek": 453,
+    "timeMonth": 453,
+    "timeYear": 702,
     "dailyMinutesDown": {}
   },
   {
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 652,
-    "timeDay": 267,
-    "timeWeek": 260,
-    "timeMonth": 255,
-    "timeYear": 652,
+    "time": 650,
+    "timeDay": 144,
+    "timeWeek": 236,
+    "timeMonth": 249,
+    "timeYear": 650,
     "dailyMinutesDown": {}
   }
 ]
