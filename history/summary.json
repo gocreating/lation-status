@@ -44,7 +44,7 @@
     "url": "https://stock.lation.app",
     "icon": "https://favicons.githubusercontent.com/stock.lation.app",
     "slug": "lation-stock",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -73,7 +73,7 @@
     "uptimeYear": "100.00%",
     "time": 1620,
     "timeDay": 1805,
-    "timeWeek": 1721,
+    "timeWeek": 1723,
     "timeMonth": 1748,
     "timeYear": 1620,
     "dailyMinutesDown": {}
