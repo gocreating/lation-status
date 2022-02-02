@@ -65,7 +65,7 @@
     "url": "https://coin.lation.app",
     "icon": "https://favicons.githubusercontent.com/coin.lation.app",
     "slug": "lation-coin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -73,7 +73,7 @@
     "uptimeYear": "100.00%",
     "time": 1630,
     "timeDay": 1553,
-    "timeWeek": 1720,
+    "timeWeek": 1713,
     "timeMonth": 1731,
     "timeYear": 1630,
     "dailyMinutesDown": {}
