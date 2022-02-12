@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 1460,
     "timeDay": 1653,
     "timeWeek": 1564,
     "timeMonth": 1672,
-    "timeYear": 1451,
+    "timeYear": 1449,
     "dailyMinutesDown": {}
   },
   {
@@ -27,12 +27,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 1605,
     "timeDay": 1579,
     "timeWeek": 2301,
     "timeMonth": 1757,
-    "timeYear": 1602,
+    "timeYear": 1601,
     "dailyMinutesDown": {}
   },
   {
@@ -45,12 +45,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 1633,
     "timeDay": 1704,
     "timeWeek": 1791,
     "timeMonth": 1705,
-    "timeYear": 1639,
+    "timeYear": 1638,
     "dailyMinutesDown": {
       "2021-03-08": 19
     }
@@ -60,7 +60,7 @@
     "url": "https://coin.lation.app",
     "icon": "https://favicons.githubusercontent.com/coin.lation.app",
     "slug": "lation-coin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
