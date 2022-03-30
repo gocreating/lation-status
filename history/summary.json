@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1465,
-    "timeDay": 1322,
-    "timeWeek": 1520,
-    "timeMonth": 1510,
-    "timeYear": 1478,
+    "time": 1466,
+    "timeDay": 1712,
+    "timeWeek": 1541,
+    "timeMonth": 1517,
+    "timeYear": 1481,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1611,
-    "timeDay": 1401,
-    "timeWeek": 1587,
-    "timeMonth": 1705,
-    "timeYear": 1634,
+    "time": 1610,
+    "timeDay": 1519,
+    "timeWeek": 1546,
+    "timeMonth": 1699,
+    "timeYear": 1637,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1638,
-    "timeDay": 1576,
-    "timeWeek": 1808,
-    "timeMonth": 1642,
-    "timeYear": 1677,
+    "timeDay": 1731,
+    "timeWeek": 1812,
+    "timeMonth": 1645,
+    "timeYear": 1679,
     "dailyMinutesDown": {}
   },
   {
@@ -65,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1679,
-    "timeDay": 1634,
-    "timeWeek": 1664,
-    "timeMonth": 1701,
-    "timeYear": 1680,
+    "timeDay": 1615,
+    "timeWeek": 1650,
+    "timeMonth": 1700,
+    "timeYear": 1682,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 655,
-    "timeDay": 645,
-    "timeWeek": 521,
-    "timeMonth": 498,
-    "timeYear": 656,
+    "time": 654,
+    "timeDay": 402,
+    "timeWeek": 516,
+    "timeMonth": 494,
+    "timeYear": 655,
     "dailyMinutesDown": {}
   },
   {
@@ -101,10 +101,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 582,
-    "timeDay": 155,
-    "timeWeek": 260,
-    "timeMonth": 272,
-    "timeYear": 585,
+    "timeDay": 359,
+    "timeWeek": 264,
+    "timeMonth": 275,
+    "timeYear": 586,
     "dailyMinutesDown": {}
   }
 ]
