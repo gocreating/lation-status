@@ -76,7 +76,7 @@
     "url": "https://stock-api.lation.app:5555",
     "icon": "https://favicons.githubusercontent.com/stock-api.lation.app",
     "slug": "lation-stock-api-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
