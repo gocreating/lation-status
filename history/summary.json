@@ -14,7 +14,7 @@
     "timeDay": 213,
     "timeWeek": 1038,
     "timeMonth": 1498,
-    "timeYear": 1491,
+    "timeYear": 1494,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 167,
     "timeWeek": 1089,
     "timeMonth": 1621,
-    "timeYear": 1641,
+    "timeYear": 1644,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 389,
     "timeWeek": 1978,
     "timeMonth": 1744,
-    "timeYear": 1686,
+    "timeYear": 1690,
     "dailyMinutesDown": {}
   },
   {
@@ -58,17 +58,17 @@
     "url": "https://coin.lation.app",
     "icon": "https://favicons.githubusercontent.com/coin.lation.app",
     "slug": "lation-coin",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1693,
-    "timeDay": 2267,
-    "timeWeek": 2163,
+    "timeDay": 2196,
+    "timeWeek": 2154,
     "timeMonth": 1734,
-    "timeYear": 1700,
+    "timeYear": 1702,
     "dailyMinutesDown": {}
   },
   {
@@ -104,7 +104,7 @@
     "timeDay": 76,
     "timeWeek": 203,
     "timeMonth": 255,
-    "timeYear": 569,
+    "timeYear": 571,
     "dailyMinutesDown": {}
   }
 ]
