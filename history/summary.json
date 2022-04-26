@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1648,
     "timeDay": 389,
-    "timeWeek": 2019,
+    "timeWeek": 1516,
     "timeMonth": 1744,
     "timeYear": 1690,
     "dailyMinutesDown": {}
@@ -58,7 +58,7 @@
     "url": "https://coin.lation.app",
     "icon": "https://favicons.githubusercontent.com/coin.lation.app",
     "slug": "lation-coin",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -66,8 +66,8 @@
     "uptimeYear": "100.00%",
     "time": 1693,
     "timeDay": 1633,
-    "timeWeek": 1973,
-    "timeMonth": 1733,
+    "timeWeek": 1974,
+    "timeMonth": 1732,
     "timeYear": 1701,
     "dailyMinutesDown": {}
   },
