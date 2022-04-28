@@ -32,7 +32,7 @@
     "timeDay": 2436,
     "timeWeek": 1197,
     "timeMonth": 1654,
-    "timeYear": 1649,
+    "timeYear": 1652,
     "dailyMinutesDown": {}
   },
   {
@@ -58,15 +58,15 @@
     "url": "https://coin.lation.app",
     "icon": "https://favicons.githubusercontent.com/coin.lation.app",
     "slug": "lation-coin",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1697,
-    "timeDay": 2000,
-    "timeWeek": 1871,
+    "timeDay": 1981,
+    "timeWeek": 1869,
     "timeMonth": 1755,
     "timeYear": 1706,
     "dailyMinutesDown": {}
